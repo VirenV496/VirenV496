@@ -20,7 +20,6 @@ We also got familiar with OOP and Java fundamentals. My final project was a web 
 
 📩 Leave a mail directly at virenderv329@gmail.com.
 
-🔻 See my Github repositories at https://github.com/VirenV496
 
 
 
