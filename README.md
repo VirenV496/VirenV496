@@ -20,7 +20,7 @@ We also got familiar with OOP and Java fundamentals. My recent project was a web
 
 📩 Leave a mail directly at virenderv329@gmail.com
 
-<a href="https://virenv496.github.io/virender.codes/" target="_blank"><img src="https://user-images.githubusercontent.com/65226860/126049644-ad03d988-bbf4-4442-8477-fea3dc5f0b1c.png" align="right" alt="portfolio-image" width="1200" height="300"></a>
+<a href="https://virenv496.github.io/virender.codes/" target="_blank"><img src="https://user-images.githubusercontent.com/65226860/126049644-ad03d988-bbf4-4442-8477-fea3dc5f0b1c.png" align="right" alt="portfolio-image" width="1200" height="100"></a>
 
 
 
