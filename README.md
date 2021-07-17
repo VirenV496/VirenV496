@@ -6,7 +6,7 @@
 
 
 SKILLS CAN BE TAUGHT, BUT ATTITUDE CAN'T!
-DSA + Development
+⬜️ DSA + Development
 ⬜️ Energetic, flexible, highly motivated, positive team player;
 ⬜️ Eager to learn and open to new challenges;
 ⬜️ Having the potential to motivate and support others;
