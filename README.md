@@ -18,7 +18,7 @@ Languages JavaScript, C++, Python
 I am a masters student - was one of the most driven students. I was a self-taught coding enthusiast.
 We also got familiar with OOP and Java fundamentals. My recent project was a web CRUD app, built with node js , Express JS and mongo db. I enjoy most working with the java script react stack
 
-📩 Leave a mail directly at virenderv329@gmail.com.
+📩 Leave a mail directly at virenderv329@gmail.com
 
 
 
