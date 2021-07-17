@@ -5,11 +5,11 @@
 
 
 
-SKILLS CAN BE TAUGHT, BUT ATTITUDE CAN'T!
-⬜️ DSA + Development
-⬜️ Energetic, flexible, highly motivated, positive team player;
-⬜️ Eager to learn and open to new challenges;
-⬜️ Having the potential to motivate and support others;
+SKILLS CAN BE TAUGHT, BUT ATTITUDE CAN'T! </br>
+⬜️ DSA + Development </br>
+⬜️ Energetic, flexible, highly motivated, positive team player</br>
+⬜️ Eager to learn and open to new challenges</br>
+⬜️ Having the potential to motivate and support others</br>
 
 Languages JavaScript, C++, Python
 
