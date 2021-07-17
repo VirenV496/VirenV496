@@ -16,7 +16,7 @@ Languages JavaScript, C++, Python
 ⚙️ Tech skills: HTML5, CSS3, SCSS, Bootstrap, JavaScript (DOM), MySql, Mongo, TypeScript, React Js, Redux
 
 I am a masters student - was one of the most driven students. I was a self-taught coding enthusiast.
-We also got familiar with OOP and Java fundamentals. My final project was a web CRUD app, built with node js , Express JS and mongo db. I enjoy most working with the react stack
+We also got familiar with OOP and Java fundamentals. My recent project was a web CRUD app, built with node js , Express JS and mongo db. I enjoy most working with the java script react stack
 
 📩 Leave a mail directly at virenderv329@gmail.com.
 
