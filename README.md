@@ -13,15 +13,14 @@ SKILLS CAN BE TAUGHT, BUT ATTITUDE CAN'T! </br>
 
 Languages JavaScript, C++, Python
 
-⚙️ Tech skills: HTML5, CSS3, SCSS, Bootstrap, JavaScript (DOM), MySql, Mongo, TypeScript, React Js, Redux
+⚙️ Tech skills: HTML5, CSS3, SCSS, Bootstrap, JavaScript (DOM), Node js , MySql, Mongo, TypeScript, React Js, Redux
 
-I am a masters student - was one of the most driven students. I was a self-taught coding enthusiast.
-We also got familiar with OOP and Java fundamentals. My recent project was a web CRUD app, built with node js , Express JS and mongo db. I enjoy most working with the java script react stack
+I am a masters student - I was a self-taught coding enthusiast.
+We also got familiar with OOP and Java fundamentals. My recent project was a web CRUD app, and built with node js more projects hit the link down   , Express JS and mongo db. I enjoy most working with the java script react stack
 
 📩 Leave a mail directly at virenderv329@gmail.com
 
 <a href="https://virenv496.github.io/virender.codes/" target="_blank"><img src="https://user-images.githubusercontent.com/65226860/126049644-ad03d988-bbf4-4442-8477-fea3dc5f0b1c.png" align="right" alt="portfolio-image" width="1200" height="150"></a>
-
 
 
 
