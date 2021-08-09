@@ -1,6 +1,6 @@
 <a href="https://virenv496.github.io/virender.codes/#/links" target="_blank"><img src="https://media.giphy.com/media/YuEhllLzlespOUqZF6/giphy.gif" align="right" alt="portfolio-image" width="1400" height="auto"></a>
 <a href="https://www.linkedin.com/in/virender-vishwakarma-952381176/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
-<a href="https://www.linkedin.com/in/virender-vishwakarma-952381176/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
+<a href="https://leetcode.com/virenderv329/" target="_blank"><img src="https://leetcode.com/static/images/LeetCode_Sharing.png"/></a>
 
 
 
