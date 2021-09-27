@@ -1,5 +1,5 @@
-<!-- <a href="https://virenv496.github.io/virender.codes/#/links" target="_blank"><img src="https://giphy.com/embed/17oGwiG7qvXHVeWqBL" align="right" alt="portfolio-image" width="650" height="auto"></a> -->
-<iframe src="https://giphy.com/embed/17oGwiG7qvXHVeWqBL" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/17oGwiG7qvXHVeWqBL">via GIPHY</a></p>
+<a href="https://virenv496.github.io/virender.codes/#/links" target="_blank"><img src="https://giphy.com/embed/17oGwiG7qvXHVeWqBL" align="right" alt="portfolio-image" width="650" height="auto"></a>
+href="https://giphy.com/gifs/17oGwiG7qvXHVeWqBL">via GIPHY</a></p>
 <a href="https://www.linkedin.com/in/virender-vishwakarma-952381176/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a><br><br><hr>
 <br><br>
 <a href="https://leetcode.com/virenderv329/" target="_blank"><img src="https://miro.medium.com/max/333/1*1W0-bbmt4iiEpp_pPrS0VQ.png" width = "12%"/></a>
