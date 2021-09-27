@@ -1,4 +1,4 @@
-<a href="https://virenv496.github.io/virender.codes/#/links" target="_blank"><img src="https://media.giphy.com/media/YuEhllLzlespOUqZF6/giphy.gif" align="right" alt="portfolio-image" width="650" height="auto"></a>
+<a href="https://virenv496.github.io/virender.codes/#/links" target="_blank"><img src="https://giphy.com/gifs/izFzlsrRP5UI5MlNl0" align="right" alt="portfolio-image" width="650" height="auto"></a>
 <a href="https://www.linkedin.com/in/virender-vishwakarma-952381176/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a><br><br><hr>
 <br><br>
 <a href="https://leetcode.com/virenderv329/" target="_blank"><img src="https://miro.medium.com/max/333/1*1W0-bbmt4iiEpp_pPrS0VQ.png" width = "12%"/></a>
