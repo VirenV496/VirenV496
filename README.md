@@ -1,4 +1,4 @@
-<a href="https://virenv496.github.io/virender.codes/#/links" target="_blank"><img src="https://media.giphy.com/media/17oGwiG7qvXHVeWqBL/giphy.gif" align="right" alt="portfolio-image" width="900" height="auto"></a>
+<!-- <a href="https://virenv496.github.io/virender.codes/#/links" target="_blank"><img src="https://media.giphy.com/media/17oGwiG7qvXHVeWqBL/giphy.gif" align="right" alt="portfolio-image" width="900" height="auto"></a>
 
 
 <a href="https://www.linkedin.com/in/virender-vishwakarma-952381176/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a><br>
@@ -26,3 +26,7 @@ We also got familiar with OOP and Java fundamentals. My recent project was a web
 
 
 
+ -->
+ 
+<!-- To show hithub stats  -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VirenV496&theme=radical)
